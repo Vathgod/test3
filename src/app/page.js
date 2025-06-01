@@ -9,7 +9,7 @@ export default function Home() {
       <div className="bg-white text-gray-900 rounded-2xl shadow-xl p-6 w-full max-w-3xl space-y-6">
         <section>
           <h3 className="text-xl font-semibold mb-2">🧑‍💻 About Me</h3>
-          <p>I am a king</p>
+          <p>I am a king that only love one girl</p>
         </section>
 
         <section>
